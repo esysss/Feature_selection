@@ -1,2 +1,2 @@
 # feature_selection
-A project to investigate different feature selection methods
+A project to investigate different feature selection methods. One of the most common problems in healthcare datasets is the high ratio of features to samples. In this project, we investigate this problem and all feature selection methods to find the best possible model. In addition to feature selection methods, we also took advantage of some feature extraction methods too. The final results will be added as a result folder in this repo.
